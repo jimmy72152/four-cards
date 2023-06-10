@@ -1,0 +1,41 @@
+body{
+   background-color: hsl(0, 0%, 97%);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+   box-sizing: border-box; 
+}
+.super{
+    padding: 50px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    border-radius: 2%;
+    border-top: 4px solid hsl(180, 62%, 55%);
+    position: relative;
+    top: 30%;
+}
+.team{
+    border: 2px solid #fff;
+    border-radius: 2%;
+    padding: 50px;
+    background-color: #fff;
+    border-top: 4px solid hsl(0, 78%, 62%) ;
+}
+.Calculator{
+    border: 2px solid #fff;
+    border-radius: 2%;
+    padding: 50px;
+    background-color: #fff;
+    border-top: 4px solid hsl(212, 86%, 64%);
+    position: relative;
+    top: 30%;
+}
+.karma{
+    border: 2px solid #fff;
+    border-radius: 2%;
+    padding: 50px;
+    background-color: #fff;
+    border-top: 4px solid hsl(34, 97%, 64%);
+    margin-top: 50px;
+}
+img{
+    margin-left: 80%;
+}
